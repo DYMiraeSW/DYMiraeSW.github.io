@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Choi WooJin 
-title: Your job title
-email: Your email (optional)
+name: 최우진 
+title: 대학생
+email: 123@gmail.com (optional)
 # email_title: Email (Email title override)
-phone: ************** (optional)
+phone: 010-1234-5678 (optional)
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
